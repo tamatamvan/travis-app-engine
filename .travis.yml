@@ -1,5 +1,6 @@
-language: nodejs
-
+language: node_js
+node_js:
+- "stable"
 # Cache our Gcloud SDK between commands
 cache:
   directories:
