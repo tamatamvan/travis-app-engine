@@ -1,8 +1,5 @@
 language: nodejs
 
-node_js:
-- "9"
-
 # Cache our Gcloud SDK between commands
 cache:
   directories:
